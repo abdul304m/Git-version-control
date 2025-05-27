@@ -44,5 +44,5 @@ Your code does'nt just stay on your lacal machine. when you are ready to share y
 
  https://github.com/abdul304m/Git-version-control/blob/main/index.html
 
- 
+
 Here are some of the git commands use to to move files between these four locations: the working directory, the staging area, the local repository and the remote repository.
