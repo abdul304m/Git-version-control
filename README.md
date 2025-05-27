@@ -38,4 +38,11 @@ Your code does'nt just stay on your lacal machine. when you are ready to share y
 
 ![git-push](./new-p/5.push.png)
 
+## Github repository URL
+
+ i created a repository with an index.html file at its root.
+
+ https://github.com/abdul304m/Git-version-control/blob/main/index.html
+
+ 
 Here are some of the git commands use to to move files between these four locations: the working directory, the staging area, the local repository and the remote repository.
